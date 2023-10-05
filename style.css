@@ -191,6 +191,14 @@ button.cta-button {
    color:#f9faf8;
 }
 
-.cta-subtext {
+.cta-subtext, .footer-content {
     color:#e5e7eb;
+}
+
+.footer {
+    background-color:#1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 100px;
 }
