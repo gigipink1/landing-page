@@ -81,3 +81,50 @@ a, .hero-subtext {
     font-weight: 900;
     color: #f9faf8
 }
+
+.section-two {
+    background-color: #fff;
+    padding: 30px 100px;
+    
+}
+
+h2 {
+  margin: 0 0 30px 0;
+  padding: 0;
+  text-align: center;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.info-box {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.info-combo {
+    text-align: center;
+    width: 200px;
+}
+
+.info-image {
+    width: 150px;
+    height: 150px;
+    border:solid 4px #3882f6;
+    border-radius: 20px;
+    margin: auto;
+    
+}
+
+.info-text {
+    width: 150px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom:50px;
+}
